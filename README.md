@@ -1,5 +1,8 @@
 ## Description
-List popular github repositories using [Nest](https://github.com/nestjs/nest).
+
+List popular github repositories using [Nest.js](https://github.com/nestjs/nest).
+
+[Github API](https://docs.github.com/en/rest/search).
 
 ## Installation
 
@@ -19,7 +22,9 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+
 ## API documentation
+
 http://localhost:3000/swagger
 
 ## Test
